@@ -1,0 +1,8 @@
+
+<svg viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+    <rect id="soacha" x="10" y="10" width="80" height="80" fill="#b0c4de" stroke="#333"/>
+    <rect id="zipaquira" x="100" y="10" width="80" height="80" fill="#b0c4de" stroke="#333"/>
+    <rect id="chia" x="190" y="10" width="80" height="80" fill="#b0c4de" stroke="#333"/>
+    <rect id="girardot" x="55" y="110" width="80" height="80" fill="#b0c4de" stroke="#333"/>
+    <rect id="facatativa" x="145" y="110" width="80" height="80" fill="#b0c4de" stroke="#333"/>
+</svg>
