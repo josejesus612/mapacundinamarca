@@ -7,11 +7,11 @@ document.addEventListener("DOMContentLoaded", () => {
         const svgDoc = svgObject.contentDocument;
 
         const municipios = {
-            "soacha": "Soacha: Municipio de importancia estratégica en el borde sur de Bogotá.",
-            "zipaquira": "Zipaquirá: Conocida por su catedral de sal, rica en historia minera.",
-            "chia": "Chía: Centro de crecimiento urbano y comercial cerca de la capital.",
-            "girardot": "Girardot: Importante destino turístico del clima cálido.",
-            "facatativa": "Facatativá: Nodo logístico con acceso industrial y agrícola."
+            "soacha": "Soacha: Municipio estratégico al sur de Bogotá.",
+            "chia": "Chía: Centro urbano y comercial en crecimiento.",
+            "zipaquira": "Zipaquirá: Famosa por su catedral de sal.",
+            "facatativa": "Facatativá: Nodo logístico e industrial.",
+            "fusagasuga": "Fusagasugá: Clima cálido y potencial turístico."
         };
 
         for (const [id, text] of Object.entries(municipios)) {

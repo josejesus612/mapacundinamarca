@@ -1,8 +1,12 @@
 
-<svg viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
-    <rect id="soacha" x="10" y="10" width="80" height="80" fill="#b0c4de" stroke="#333"/>
-    <rect id="zipaquira" x="100" y="10" width="80" height="80" fill="#b0c4de" stroke="#333"/>
-    <rect id="chia" x="190" y="10" width="80" height="80" fill="#b0c4de" stroke="#333"/>
-    <rect id="girardot" x="55" y="110" width="80" height="80" fill="#b0c4de" stroke="#333"/>
-    <rect id="facatativa" x="145" y="110" width="80" height="80" fill="#b0c4de" stroke="#333"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <style>
+    .municipio { fill: #a0c0e0; stroke: #333; cursor: pointer; }
+    .municipio:hover { fill: #0a3d62; }
+  </style>
+  <g id="soacha" class="municipio"><path d="M100,100 L200,100 L200,200 L100,200 Z"/></g>
+  <g id="chia" class="municipio"><path d="M220,100 L320,100 L320,200 L220,200 Z"/></g>
+  <g id="zipaquira" class="municipio"><path d="M340,100 L440,100 L440,200 L340,200 Z"/></g>
+  <g id="facatativa" class="municipio"><path d="M150,220 L250,220 L250,320 L150,320 Z"/></g>
+  <g id="fusagasuga" class="municipio"><path d="M270,220 L370,220 L370,320 L270,320 Z"/></g>
 </svg>
